@@ -2884,6 +2884,11 @@
 				font-weight: normal;
 				text-transform: none !important;
 			}
+			.row > article > center > h5 {
+				margin-top: 0.3em;
+				color: #7d7d7d;
+				font-family: Helvetica;
+			}
 
 			.poptrox-popup .closer:before {
 				-moz-box-sizing: content-box;
